@@ -5,7 +5,7 @@ Google Fonts Clone using React, Node, and Express
 
 ## Download/Fork 
 
-## `git clone https://github.com/duole93/fontfavorite-tier3.git`
+`git clone https://github.com/duole93/fontfavorite-tier3.git`
 
 ## Install
 
