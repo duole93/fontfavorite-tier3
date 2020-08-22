@@ -1,7 +1,11 @@
 # Font-favorite-tier3
 
-a Google Fonts clone using React, Node, and Express.
+A Google Fonts clone using React, Node, and Express.
+Chingu.io Explorer Web Application Project
 
+# Functionality
+- Browse and search for fonts
+- and that is for now 😅
 
 # Download/Fork 
 
@@ -34,16 +38,16 @@ npm install
 PORT=5000
 REACT_APP_API_KEY=YOUR_API_KEY
 ```
-** NOTE: if you want to use different port, make sure to change the `proxy` of package.json in client folder to the port number of your choice. 
+** NOTE: if you want to use different port, make sure to change the `proxy` of package.json in `client` folder to the port number of your choice. 
 
 
 ### STEP 4: Start the project
 
--in terminal, nevigate to server folder and run the command
+-In terminal, nevigate to `server` folder and run the command
 
 `node server.js`
 
--in terminal, nevigate to client folder and run the command
+-In terminal, nevigate to client folder and run the command
 
 `npm start`
 
