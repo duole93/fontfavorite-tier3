@@ -1,7 +1,7 @@
 # Font-favorite-tier3
 
-A Google Fonts clone using React, Node, and Express.
-Chingu.io Explorer Web Application Project
+- A Google Fonts clone using React, Node, and Express.
+- Chingu.io Explorer Web Application Project
 
 # Functionality
 - Browse and search for fonts
