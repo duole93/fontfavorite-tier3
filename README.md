@@ -16,7 +16,7 @@
 ### STEP 1: Install node modules dependancies
 
 - There are 2 folders, `client` and `server`.
-- 'cd' to each folder and install node modules dependancies
+- `cd` to each folder and install node modules dependancies
 
 ```
 cd client
