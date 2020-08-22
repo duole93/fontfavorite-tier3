@@ -374,6 +374,17 @@ header {
   
 }
 
+
+/* ======================= 
+        NOT FOUNT
+==========================*/
+.container-not-found{
+  display:block;
+  text-align: center;
+  font-size:3rem;
+  width: 100%;
+}
+
 /* ======================= 
         FOOTER
 ==========================*/
