@@ -34,6 +34,8 @@ npm install
 PORT=5000
 REACT_APP_API_KEY=YOUR_API_KEY
 ```
+**NOTE: if you want to use different port, make sure to change the `proxy` of package.json in client folder to the port number of your choice. 
+
 
 ### STEP 4: Start the project
 
